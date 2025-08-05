@@ -1,0 +1,4 @@
+My name is Jahnavi
+My course is Bsc computers science
+One thing I learned about GitHub is it is a center role in enabling and supporting devops practice.
+
